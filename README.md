@@ -1,3 +1,4 @@
+
 # 🚀 Yo! I'm Vernon and I build 🤖📱☁️ things!
 
 ### 🛠️ "Have you tried turning it off and on again?" (Tech Support Expert)
@@ -27,6 +28,26 @@
 ### ☁️ Fanboying over Google Cloud (GCP is life)
 <a href="https://www.skills.google/public_profiles/49ad0e74-964c-408f-ada9-12597e74b43f/badges/9314655">
 <img class="icon-image" height="90" src="https://cdn.qwiklabs.com/6%2BJEXmO%2Fq4HVnb7U%2BQev6vC8Ayldxi0eoEYaX4BQVzQ%3D" alt="L300 Google Distributed Cloud air-gapped" />    
+</a>
+
+
+<a href="https://www.skills.google/public_profiles/49ad0e74-964c-408f-ada9-12597e74b43f/badges/9246364">
+<img class="icon-image" height="90" src="https://cdn.qwiklabs.com/HZZa%2FmPkGq%2FngWHgXJnV5tpHtn7Ge3Wh7gp2mY483BM%3D" alt="L300 Google Distributed Cloud air-gapped" />    
+</a>
+
+
+<a href="https://www.skills.google/public_profiles/49ad0e74-964c-408f-ada9-12597e74b43f/badges/9315365">
+<img class="icon-image" height="90" src="https://cdn.qwiklabs.com/9X9eiD2yv5aF7S9lJ5L7OuBWnI1gusbemLyQLOiLtu4%3D" alt="L300 Google Distributed Cloud air-gapped" />    
+</a>
+
+
+
+<a href="https://www.skills.google/public_profiles/49ad0e74-964c-408f-ada9-12597e74b43f/badges/9248045">
+<img class="icon-image" height="90" src="https://cdn.qwiklabs.com/0vUel75Tay4iE5TmCxy%2FQShLI7Xre4WSwzqKywryl4Q%3D" alt="L300 Google Distributed Cloud air-gapped" />    
+</a>
+
+<a href="https://www.skills.google/public_profiles/49ad0e74-964c-408f-ada9-12597e74b43f/badges/9247669">
+<img class="icon-image" height="90" src="https://cdn.qwiklabs.com/Vsf24RGei5vvkykpawMcO2nIdsgaka11mooO9z6t5dc%3D" alt="L300 Google Distributed Cloud air-gapped" />    
 </a>
 
 ---
