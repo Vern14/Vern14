@@ -1,12 +1,12 @@
-# Yo! I'm Vernon and I do :robot:📱:cloud: engineery things
+# Hi! I'm Vernon and I do :robot:📱:cloud: engineering
 
 ### I'm a big fan of Google Cloud
 
 <a href="https://www.skills.google/public_profiles/49ad0e74-964c-408f-ada9-12597e74b43f/badges/9314655">
 <img class="icon-image" height="90" src="https://cdn.qwiklabs.com/6%2BJEXmO%2Fq4HVnb7U%2BQev6vC8Ayldxi0eoEYaX4BQVzQ%3D" alt="L300 Google Distributed Cloud air-gapped" />    
 </a>
-<a href="https://www.credential.net/f5f2943b-f1ad-453e-bb53-c699becd849f">
-<img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCA.png" alt="Google Cloud Certified: Professional Cloud Architect" />    
+<a href="https://www.credly.com/badges/906c4c42-40e6-4fc8-9351-0bbc0ac98d55/public_url">
+<img class="icon-image" height="100" src="https://images.credly.com/size/680x680/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" alt="Google Cloud Certified: Professional Cloud Architect" />    
 </a>
 <a href="https://www.credential.net/124c624d-f176-4bc8-a418-b610a236c309">
 <img class="icon-image" height="100" src="https://github.com/Neutrollized/Neutrollized/blob/master/images/badge_GCP-PCNE.png" alt="Google Cloud Certified: Professional Cloud Network Engineer" />    
