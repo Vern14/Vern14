@@ -1,4 +1,4 @@
-# Yo! I'm Vernon and I do :robot::mobile_phone::cloud: engineery things
+# Yo! I'm Vernon and I do :robot::mobile_friendly::cloud: engineery things
 
 ### I'm a big fan of Google Cloud
 
