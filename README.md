@@ -42,7 +42,17 @@
 </a>
 
 
+<a href="https://www.skills.google/public_profiles/49ad0e74-964c-408f-ada9-12597e74b43f/badges/9247224">
+<img class="icon-image" height="90" src="https://cdn.qwiklabs.com/8WAx69Kk1nJNoipzoi0vmesqTSEsQlKcbiSUJW0VeOA%3D" alt="L300 Google Distributed Cloud air-gapped" />    
+</a>
 
+<a href="https://www.skills.google/public_profiles/49ad0e74-964c-408f-ada9-12597e74b43f/badges/9246986">
+<img class="icon-image" height="90" src="https://cdn.qwiklabs.com/GELejS5bzw7jQe2ecRO1l995z4RpnzGADs71AC%2FDbJw%3D" alt="L300 Google Distributed Cloud air-gapped" />    
+</a>
+
+<a href="https://www.skills.google/public_profiles/49ad0e74-964c-408f-ada9-12597e74b43f/badges/9240790">
+<img class="icon-image" height="90" src="https://cdn.qwiklabs.com/Lr8yI4AYVh%2BcD0DvTW0NpBFenYNwKSVrzHBkv3FuFvI%3D" alt="L300 Google Distributed Cloud air-gapped" />    
+</a>
 
 
 
