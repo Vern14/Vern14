@@ -4,7 +4,8 @@
 <img class="icon-image" height="100" src="https://images.credly.com/size/680x680/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" alt="Google Cloud Certified: Professional Cloud Architect" />    
 </a>
 
-I can do AI with MongoDB
+
+### I know AI on MongoDB
 <a href="https://www.credly.com/badges/2bf41913-8e77-47ef-99c0-7aa828da6535/public_url">
 <img class="icon-image" height="100" src="https://images.credly.com/size/680x680/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob" alt="Google Cloud Certified: Professional Cloud Architect" />    
 </a>
