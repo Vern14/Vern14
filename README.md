@@ -1,10 +1,11 @@
 
 # 🚀 Yo! I'm Vernon and I build 🤖📱☁️ things!
 
-### 💻 Cracking the Code as an IBM Full Stack Developer
+### 💻 "Cracking the Code as an IBM Full Stack Developer"
 <a href="https://www.credly.com/org/ibm/badge/ibm-full-stack-software-developer-professional-cert">
-<img class="icon-image" height="100" src="https://credly.com" alt="IBM Full Stack Software Developer Professional Certificate" />    
+<img class="icon-image" height="100" src="https://images.credly.com/size/680x680/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" alt="IBM Full Stack Software Developer Professional Certificate" />    
 </a>
+
 ### 🛠️ "Have you tried turning it off and on again?" (Tech Support Expert)
 <a href="https://www.credly.com/badges/906c4c42-40e6-4fc8-9351-0bbc0ac98d55/public_url">
 <img class="icon-image" height="100" src="https://images.credly.com/size/680x680/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" alt="Google Cloud Certified: Professional Cloud Architect" />    
