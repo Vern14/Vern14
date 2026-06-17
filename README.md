@@ -1,7 +1,7 @@
 
 # 🚀 Yo! I'm Vernon and I build 🤖📱☁️ things!
 
-### 💻 "Cracking the Code as an IBM Full Stack Developer"
+### 💻 "Cracking the Code as a Full Stack Developer"
 <a href="https://www.credly.com/org/ibm/badge/ibm-full-stack-software-developer-professional-cert">
 <img class="icon-image" height="100" src="https://images.credly.com/size/680x680/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" alt="IBM Full Stack Software Developer Professional Certificate" />    
 </a>
