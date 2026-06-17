@@ -1,5 +1,5 @@
 
-# 🚀 Yo! I'm Vernon and I build 🤖📱☁️ things!
+# 🚀 Hey! I'm Vernon and I build 🤖📱☁️ things!
 
 ### 💻 "Cracking the Code as a Full Stack Developer"
 <a href="https://www.credly.com/org/ibm/badge/ibm-full-stack-software-developer-professional-cert">
